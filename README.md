@@ -1,2 +1,5 @@
 # WebsiteBS
 IDK
+
+
+Informatica opdracht
